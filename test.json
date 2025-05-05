@@ -10,31 +10,29 @@
           "description": "Entrenador certificado y nutricionista",
           "personPerfil": {
             "image": "assents/ezequiel.webp",
-            "description":
-                "Con más de 4 años de experiencia ayudando a transformar vidas.",
+            "description": "Con más de 4 años de experiencia ayudando a transformar vidas.",
             "certifications": {
               "title": "Certificado en:",
               "list": [
                 "Entrenador de musculación",
                 "Entrenador personal",
                 "Entrenador funcional",
-                "Nutrición deportiva",
-              ],
+                "Nutrición deportiva"
+              ]
             },
-
             "Public_images": [
               {
                 "Description": "Estare pediente con tu entrenamiento",
-                "image": "assents/1.webp",
+                "image": "assents/1.webp"
               },
               {
                 "Description": "Aqui estoy con mi certificado :)",
-                "image": "assents/2.webp",
-              },
-            ],
-          },
-        },
-      },
+                "image": "assents/2.webp"
+              }
+            ]
+          }
+        }
+      }
     },
     {
       "title": "Barber Crew",
@@ -46,25 +44,27 @@
           "description": "Barbero certificado con 7 años de experiencia",
           "personPerfil": {
             "image": "assents/3.webp",
-            "description":
-                "Barbero con flow, precision y estilo. Cada corte, una firma.",
+            "description": "Barbero con flow, precision y estilo. Cada corte, una firma.",
             "certifications": {
               "title": "Certificado en:",
-              "list": ["Certificado Tecnico", "Tengo 7 años de experiencia"],
+              "list": [
+                "Certificado Tecnico",
+                "Tengo 7 años de experiencia"
+              ]
             },
             "Public_images": [
               {
                 "Description": "Tu estilo es mi prioridad",
-                "image": "assents/4.webp",
+                "image": "assents/4.webp"
               },
               {
                 "Description": "Dandole un buen acabado este corte",
-                "image": "assents/5.webp",
-              },
-            ],
-          },
-        },
-      },
-    },
-  ],
+                "image": "assents/5.webp"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
 }
