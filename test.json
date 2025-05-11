@@ -10,30 +10,29 @@
           "description": "Entrenador certificado y nutricionista",
           "personPerfil": {
             "image": "ezequiel.webp",
-            "description":
-                "Con más de 4 años de experiencia ayudando a transformar vidas.",
+            "description": "Con más de 4 años de experiencia ayudando a transformar vidas.",
             "certifications": {
               "title": "Certificado en:",
               "list": {
                 "0": "Entrenador de musculación",
                 "1": "Entrenador personal",
                 "2": "Entrenador funcional",
-                "3": "Nutrición deportiva",
-              },
+                "3": "Nutrición deportiva"
+              }
             },
             "Public_images": {
               "0": {
-                "Description": "Estare pediente con tu entrenamiento",
-                "image": "1.webp",
+                "Description": "Estaré pendiente con tu entrenamiento",
+                "image": "1.webp"
               },
               "1": {
-                "Description": "Aqui estoy con mi certificado :)",
-                "image": "2.webp",
-              },
-            },
-          },
-        },
-      },
+                "Description": "Aquí estoy con mi certificado :)",
+                "image": "2.webp"
+              }
+            }
+          }
+        }
+      }
     },
     "1": {
       "title": "Barber Crew",
@@ -45,28 +44,27 @@
           "description": "Barbero certificado con 7 años de experiencia",
           "personPerfil": {
             "image": "3.webp",
-            "description":
-                "Barbero con flow, precision y estilo. Cada corte, una firma.",
+            "description": "Barbero con flow, precisión y estilo. Cada corte, una firma.",
             "certifications": {
               "title": "Certificado en:",
               "list": {
-                "0": "Certificado Tecnico",
-                "1": "Tengo 7 años de experiencia",
-              },
+                "0": "Certificado Técnico",
+                "1": "Tengo 7 años de experiencia"
+              }
             },
             "Public_images": {
               "0": {
                 "Description": "Tu estilo es mi prioridad",
-                "image": "4.webp",
+                "image": "4.webp"
               },
               "1": {
-                "Description": "Dandole un buen acabado este corte",
-                "image": "5.webp",
-              },
-            },
-          },
-        },
-      },
-    },
-  },
+                "Description": "Dándole un buen acabado a este corte",
+                "image": "5.webp"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
 }
