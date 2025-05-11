@@ -60,7 +60,11 @@
               "1": {
                 "Description": "Dándole un buen acabado a este corte",
                 "image": "5.webp"
-              }
+              },
+              "2": {
+                "Description": "Dándole un buen acabado a este corte",
+                "image": "6.webp"
+              },
             }
           }
         }
